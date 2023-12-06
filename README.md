@@ -1,3 +1,3 @@
 # pythonNotepad
 
-This is my Python notepad.
+This is my Python notepad!
